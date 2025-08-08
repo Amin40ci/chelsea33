@@ -5,7 +5,7 @@ A simple and clean project to demonstrate how GitHub README files work.
 ## 🔧 Features
 
 - Clear structure
-- Easy to modif
+- Easy to modify
 - Open source
 
 ## 🚀 Getting Started
