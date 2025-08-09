@@ -8,7 +8,7 @@ A simple and clean project to demonstrate how GitHub README files work.
 - Easy to modify
 - Open source
 
-## 🚀 Getting Starte
+## 🚀 Getting Started
 
 Clone the repository:
 
