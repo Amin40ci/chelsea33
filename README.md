@@ -12,7 +12,7 @@ A simple and clean project to demonstrate how GitHub README files work.
 
 Clone the repository:
 
-```bashn
+```bash
 git clone https://github.com/Amin40ci/chelsea33.git
 cd chelsea33
 # ⚽ Chelsea33 Project
