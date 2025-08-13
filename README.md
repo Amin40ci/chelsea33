@@ -15,7 +15,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/Amin40ci/chelsea33.git
 cd chelsea33
-# ⚽ Chelsea33 Project
+#  Chelsea33 Project
 
 A cool and powerful project to showcase **Chelsea FC fan passion** and coding skills.  
 This repository contains code, data, and documentation for the project.
