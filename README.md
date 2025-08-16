@@ -6,7 +6,7 @@ A simple and clean project to demonstrate how GitHub README files work.
 
 - Clear structure
 - Easy to modify
-- Open sour
+- Open sours
 
  ##🚀 Getting Started
 
