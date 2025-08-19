@@ -10,7 +10,7 @@ A simple and clean project to demonstrate how GitHub README files work.
 $
  ##🚀 Getting Started
 
-Clone the repository:s
+Clone the repository:
 
 ```bash
 git clone https://github.com/Amin40ci/chelsea33.git
