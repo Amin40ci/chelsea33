@@ -12,7 +12,7 @@ $
 
 Clone the repository:
 
-```bashs
+```bash
 git clone https://github.com/Amin40ci/chelsea33.git
 cd chelsea33
 #  Chelsea33 Project
