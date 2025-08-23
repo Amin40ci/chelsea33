@@ -4,7 +4,7 @@ A simple and clean project to demonstrate how GitHub README files work.
 
 ## 🔧 Features
 ##
-$$
+
 - Clear structure
 - Easy to modify
 - Open sours
