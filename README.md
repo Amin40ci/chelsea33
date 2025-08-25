@@ -10,7 +10,7 @@ A simple and clean project to demonstrate how GitHub README files work.
 - Easy to modify
 - Open sours
 
- ##🚀 Getting Started
+ ##🚀 Getting Startede
 
 Clone the repository:
 
